@@ -1,0 +1,10 @@
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\bin\Release\Principal.exe.config
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\bin\Release\Principal.exe
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\bin\Release\Principal.pdb
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\obj\Release\Principal.FrmLogin.resources
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\obj\Release\Principal.FrmProfessor.resources
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\obj\Release\Principal.Properties.Resources.resources
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\obj\Release\Principal.csproj.GenerateResource.Cache
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\obj\Release\Principal.exe
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\obj\Release\Principal.pdb
+C:\Users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\obj\Release\Principal.csprojResolveAssemblyReference.cache

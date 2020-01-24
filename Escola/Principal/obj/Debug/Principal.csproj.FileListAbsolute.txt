@@ -1,0 +1,10 @@
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\bin\Debug\Principal.exe.config
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\bin\Debug\Principal.exe
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\bin\Debug\Principal.pdb
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\obj\Debug\Principal.FrmLogin.resources
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\obj\Debug\Principal.Properties.Resources.resources
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\obj\Debug\Principal.exe
+c:\users\dcarlos\documents\visual studio 2015\Projects\Escola\Principal\obj\Debug\Principal.pdb
+C:\Users\dcarlos\Documents\Visual Studio 2015\Projects\Escola\Principal\obj\Debug\Principal.FrmProfessor.resources
